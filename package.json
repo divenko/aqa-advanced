@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "Now I can use git",
+  "homepage": "https://github.com/divenko/aqa-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/divenko/aqa-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divenko/aqa-advanced.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
